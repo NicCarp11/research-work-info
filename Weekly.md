@@ -1,6 +1,6 @@
 # Weekly Progress Log
 
-*Author: **<Your Name Here>***
+*Author: **Victor Trost***
 
 > **How to use this file**
 >
@@ -14,8 +14,25 @@
 ## Week 1 · 19 – 25 May 2025
 
 ## **Worked on (last week):**
+- Got gem5 to compile on the server (the provided one didn't produce a `gem5.opt`: I used the v23.01 of the offical source, since v24 changed the entire build procedure of CC-protocols)
+  - Compiled `X86_MESI_unord`, `X86_MOESI_CMP_directory_edit` 
+  - Couldn't compile `X86_MESI_unord_CXL`: Seems like the generated slicc is wrong/malformed
+  - Also couldn't compile 'X86_MSI_unord'  : Somehow the build system looks for the `.sm` files in the `src/mem/ruby/protocol` instead of the `src/custom/generated-slicc/`
+- Ran some benchmarks:
+  - Phoenix worked fine, but some of the Splash sub-benchmarks didn't work (input files not found)
+- Had a look at the gem5 setup `setup_real.py`  
+- Read up on MESIF ([here](https://blog.jyotiprakash.org/a-primer-on-cache-coherence-protocols))
+- Checked out the `.pcc` of ProtoGEN
+
 
 ## **Plan for next week (26 May – 1 Jun 2025):**
+- [ ] Get Splash to work fully
+- [ ] Get more protocols to compile
+- [ ] Write my own gem5 `setup.py`
+- [ ] Read more about MESIF i.e. [here](https://www.scss.tcd.ie/jeremy.jones/vivio/caches/Andrew%20Hay%20MESIF%20Cache%20Coherency%20Protocol%202012.pdf)
+- [ ] Try to understand more about the `.pcc` files
+- [ ] Have a look at CXLGen Codebase
+
 
 ---
 
