@@ -28,9 +28,9 @@
 ## **Plan for next week (26 May – 1 Jun 2025):**
 - [ ] Get Splash to work fully
 - [ ] Get more protocols to compile
-- [ ] Write my own gem5 `setup.py`
-- [ ] Read more about MESIF i.e. [here](https://www.scss.tcd.ie/jeremy.jones/vivio/caches/Andrew%20Hay%20MESIF%20Cache%20Coherency%20Protocol%202012.pdf)
-- [ ] Try to understand more about the `.pcc` files
+- [x] Write my own gem5 `setup.py`
+- [x] Read more about MESIF i.e. [here](https://www.scss.tcd.ie/jeremy.jones/vivio/caches/Andrew%20Hay%20MESIF%20Cache%20Coherency%20Protocol%202012.pdf)
+- [x] Try to understand more about the `.pcc` files
 - [ ] ~~Have a look at CXLGen Codebase~~
 
 
@@ -39,8 +39,16 @@
 ## Week 2 · 26 May – 1 Jun 2025
 
 ## **Worked on (last week):**
+- Identified the issue with Splash
+- Abandoned trying to compile more protocols
+- Read Part of the [University of Auckland MESIF document](https://www.scss.tcd.ie/jeremy.jones/vivio/caches/Andrew%20Hay%20MESIF%20Cache%20Coherency%20Protocol%202012.pdf)
+- Had a first look at the `.pcc` files
+- Wrote my own (working!) gem5 `setup.py` based on the `setup_real.py`
 
 ## **Plan for next week (2 – 8 Jun 2025):**
+- [ ] Even more MESIF research
+- [ ] Understand `.pcc`
+  - [ ] Ambitious write `MESIF.pcc`
 
 ---
 
