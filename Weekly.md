@@ -31,7 +31,7 @@
 - [ ] Write my own gem5 `setup.py`
 - [ ] Read more about MESIF i.e. [here](https://www.scss.tcd.ie/jeremy.jones/vivio/caches/Andrew%20Hay%20MESIF%20Cache%20Coherency%20Protocol%202012.pdf)
 - [ ] Try to understand more about the `.pcc` files
-- [ ] Have a look at CXLGen Codebase
+- [ ] ~~Have a look at CXLGen Codebase~~
 
 
 ---
