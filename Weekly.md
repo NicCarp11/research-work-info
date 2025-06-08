@@ -46,8 +46,8 @@
 - Wrote my own (working!) gem5 `setup.py` based on the `setup_real.py`
 
 ## **Plan for next week (2 – 8 Jun 2025):**
-- [ ] Even more MESIF research
-- [ ] Understand `.pcc`
+- [x] Even more MESIF research
+- [x] Understand `.pcc`
   - [ ] Ambitious write `MESIF.pcc`
 
 ---
@@ -55,9 +55,13 @@
 ## Week 3 · 2 – 8 Jun 2025
 
 ## **Worked on (last week):**
-
+- Implemented part of `MESIF.pcc`
+- Started work on the Project Proposal Presentation
+ 
 ## **Plan for next week (9 – 15 Jun 2025):**
-
+- [ ] More work on `MESIF.pcc`: Possibly get first version done
+- [ ] Finish Project Proposal Presentation + hold talk
+- [ ] If time remains: Find some more alternate sources on MESIF / find related Papers
 ---
 
 ## Week 4 · 9 – 15 Jun 2025
