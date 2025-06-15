@@ -59,17 +59,21 @@
 - Started work on the Project Proposal Presentation
  
 ## **Plan for next week (9 – 15 Jun 2025):**
-- [ ] More work on `MESIF.pcc`: Possibly get first version done
-- [ ] Finish Project Proposal Presentation + hold talk
+- [x] More work on `MESIF.pcc`: Possibly get first version done
+- [x] Finish Project Proposal Presentation + hold talk (Postponed)
 - [ ] If time remains: Find some more alternate sources on MESIF / find related Papers
 ---
 
 ## Week 4 · 9 – 15 Jun 2025
 
 ## **Worked on (last week):**
+- Finished Presentation
+- Worked on `MESIF.pcc`
 
 ## **Plan for next week (16 – 22 Jun 2025):**
-
+- [ ] Fixup `MESIF.pcc` (fix weird compiler errors, possibly elimnate remaining deadlocks)
+  - [ ] If done -> Start gathering data on MESIF (i.e. run Benchmarks)
+- [ ] Hold the presentation 
 ---
 
 ## Week 5 · 16 – 22 Jun 2025
