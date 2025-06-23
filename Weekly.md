@@ -71,16 +71,20 @@
 - Worked on `MESIF.pcc`
 
 ## **Plan for next week (16 – 22 Jun 2025):**
-- [ ] Fixup `MESIF.pcc` (fix weird compiler errors, possibly elimnate remaining deadlocks)
+- [x] Fixup `MESIF.pcc` (fix weird compiler errors, possibly elimnate remaining deadlocks)
   - [ ] If done -> Start gathering data on MESIF (i.e. run Benchmarks)
-- [ ] Hold the presentation 
+- [x] Hold the presentation 
 ---
 
 ## Week 5 · 16 – 22 Jun 2025
 
 ## **Worked on (last week):**
+- Held the presentation
+- Fixed (all?) deadlocks of `MESIF.pcc`
 
 ## **Plan for next week (23 – 29 Jun 2025):**
+- [ ] Fix the weird haning of manually edited `MESIF.pcc`
+- [ ] Hopefully start gaterhing data 
 
 ---
 
