@@ -83,16 +83,22 @@
 - Fixed (all?) deadlocks of `MESIF.pcc`
 
 ## **Plan for next week (23 – 29 Jun 2025):**
-- [ ] Fix the weird haning of manually edited `MESIF.pcc`
-- [ ] Hopefully start gaterhing data 
+- [x] Fix the weird haning of manually edited `MESIF.pcc`
+- [x] Hopefully start gaterhing data 
 
 ---
 
 ## Week 6 · 23 – 29 Jun 2025
 
 ## **Worked on (last week):**
+- `MESIF.pcc` mannually edited now working
+- Got first pieces of data (phoenix on manualy edited)
 
 ## **Plan for next week (30 Jun – 6 Jul 2025):**
+- [ ] Get `MESIF.pcc` to match (as close as possible) to the manualy edited
+- [ ] Run more benchmarks and compare with other protocols
+- [ ] Get the bridge generation working and benchmark multi level
+
 
 ---
 
