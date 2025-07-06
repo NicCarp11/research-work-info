@@ -95,7 +95,7 @@
 - Got first pieces of data (phoenix on manualy edited)
 
 ## **Plan for next week (30 Jun – 6 Jul 2025):**
-- [ ] Get `MESIF.pcc` to match (as close as possible) to the manualy edited
+- [x] Get `MESIF.pcc` to match (as close as possible) to the manualy edited
 - [ ] Run more benchmarks and compare with other protocols
 - [ ] Get the bridge generation working and benchmark multi level
 
@@ -105,9 +105,14 @@
 ## Week 7 · 30 Jun – 6 Jul 2025
 
 ## **Worked on (last week):**
+- Got `MESIF.pcc` close to the manual version
+- Had a first look at `VIPER_TCC.sm`
+
 
 ## **Plan for next week (7 – 13 Jul 2025):**
-
+- [ ] Improve `MESIF.pcc` performance, analyse performance
+- [ ] Completly understand `VIPER_TCC.sm`
+- [ ] Have a look at other `VIPER_*.sm` files
 ---
 
 ## Week 8 · 7 – 13 Jul 2025
