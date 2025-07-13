@@ -111,15 +111,19 @@
 
 ## **Plan for next week (7 – 13 Jul 2025):**
 - [ ] Improve `MESIF.pcc` performance, analyse performance
-- [ ] Completly understand `VIPER_TCC.sm`
-- [ ] Have a look at other `VIPER_*.sm` files
+- [x] Completly understand `VIPER_TCC.sm`
+- [x] Have a look at other `VIPER_*.sm` files
 ---
 
 ## Week 8 · 7 – 13 Jul 2025
 
 ## **Worked on (last week):**
+- Understood all of the `VIPER_*.sm` files
+- Wrote manual table of `VIPER_*.sm` files and compared it to automatic to generated table
 
 ## **Plan for next week (14 – 20 Jul 2025):**
+- [ ] Still need to imporve `MESIF.pcc`
+- [ ] Work on GPU-CXL-CPU / Figure out what to do
 
 ---
 
