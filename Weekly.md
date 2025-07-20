@@ -130,9 +130,14 @@
 ## Week 9 · 14 – 20 Jul 2025
 
 ## **Worked on (last week):**
+- Cleaned up the `VIPER_*.sm` tabels
+- Got first simple GPU applications running on gem5 (`triangles`) in SE and FS
+- Looked for first benchmarks/applications (rocm4.0 SE, rocm5.4 FS)
+  - Found shoc hip version (`spmv` most interresting)
 
 ## **Plan for next week (21 – 27 Jul 2025):**
-
+- [ ] Find more benchmarks/apps
+- [ ] ? 
 ---
 
 ## Week 10 · 21 – 27 Jul 2025
