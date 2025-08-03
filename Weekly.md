@@ -151,9 +151,19 @@
 ## Week 11 · 28 Jul – 3 Aug 2025
 
 ## **Worked on (last week):**
-
+- Found out FS sim doesn't use APU but dGPU model
+  - For FS would probably need bios of real AMD APU
+- Tried to get pytorch runing with `apu_se.py`
+  - Fails with assertion failure
+  - C++ bindings exists, maybe can be statically linked
+- Tried to run tensorflow
+  - Fails
+  - C++ bindings exist
+  
 ## **Plan for next week (4 – 10 Aug 2025):**
-
+- [ ] Try tensorflow again
+- [ ] Find / write alternative benchmarks/tests
+- [ ] Try C++ bindings of tensorflow/pytorch
 ---
 
 ## Week 12 · 4 – 10 Aug 2025
