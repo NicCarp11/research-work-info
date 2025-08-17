@@ -162,7 +162,7 @@
   
 ## **Plan for next week (4 – 10 Aug 2025):**
 - [ ] Try tensorflow again
-- [ ] Find / write alternative benchmarks/tests
+- [x] Find / write alternative benchmarks/tests
 - [ ] Try C++ bindings of tensorflow/pytorch
 ---
 
@@ -177,9 +177,12 @@
 ## Week 13 · 11 – 17 Aug 2025
 
 ## **Worked on (last week):**
+- Wrote a little writeup of Viper 2 RCC
+- Got most of the rodinia benchmark working on the gem5 apu
 
 ## **Plan for next week (18 – 24 Aug 2025):**
-
+- [ ] Try C++ bindings, though static build might be ambitious
+- [ ] Possibly write/adapt pcc for viper
 ---
 
 ## Week 14 · 18 – 24 Aug 2025
